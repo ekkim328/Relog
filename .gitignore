@@ -1,0 +1,11 @@
+backend/.venv/
+backend/__pycache__/
+backend/app/**/__pycache__/
+backend/relog.db
+backend/test_relog.db
+backend/.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+*.pyc
+.env
+
