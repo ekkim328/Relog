@@ -5,7 +5,7 @@ backend/relog.db
 backend/test_relog.db
 backend/.pytest_cache/
 frontend/node_modules/
-frontend/dist/
+frontend/.next/
+frontend/out/
 *.pyc
 .env
-
